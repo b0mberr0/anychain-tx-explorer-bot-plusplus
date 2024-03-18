@@ -1,0 +1,34 @@
+{
+  "name": "anychain-tx-explorer-bot-plusplus",
+  "version": "1.0.0",
+  "description": "Enhance blockchain exploration with additional features and capabilities, providing a richer user experience.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b0mberr0/anychain-tx-explorer-bot-plusplus"
+  },
+  "author": "b0mberr0",
+  "license": "MIT",
+  "dependencies": {
+    "anychain-tx-explorer-bot": "1.0.0",
+    "anychain-tx-explorer-bot-plusplus": "1.0.0",
+    "react-dom": "1.0.0",
+    "truffle": "1.0.0",
+    "web3-utils": "1.0.0",
+    "multer": "1.0.0",
+    "debug": "1.0.0",
+    "mysql": "1.0.0",
+    "commander": "1.0.0",
+    "jquery": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "web3": "1.0.0",
+    "solc": "1.0.0",
+    "moment": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "mocha": "1.0.0",
+    "request": "1.0.0"
+  }
+}
